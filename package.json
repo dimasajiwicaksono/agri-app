@@ -1,6 +1,7 @@
 {
   "name": "dashboard",
   "version": "0.1.0",
+  "homepage": "https://dimasajiwicaksono.github.io/agri-app",
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^4.0.6",
@@ -11,7 +12,6 @@
     "axios": "^0.19.2",
     "chart.js": "^2.9.3",
     "react": "^16.13.0",
-    "react-chartjs-2": "^2.9.0",
     "react-dom": "^16.13.0",
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.0"
@@ -20,7 +20,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
