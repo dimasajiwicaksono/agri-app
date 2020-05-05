@@ -1,0 +1,11 @@
+.layoutBg {
+  background-color: white;
+  /* border: solid black; */
+  margin-left : 2em;
+  margin-right: 2em; 
+  margin-top: 5vh;
+}
+
+.layoutContent {
+  background-color: white;
+}

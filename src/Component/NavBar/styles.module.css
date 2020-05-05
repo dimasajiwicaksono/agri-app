@@ -1,0 +1,45 @@
+.Menu {
+  font-size: 1em;
+}
+
+.MenuFooter {
+  height: 10vh;
+  margin: 1vh;
+}
+
+.Button {
+  font-size: 1em;
+  width: 7em;
+  height: 7vh;
+  border-radius: 0.75em;
+  margin-left: 0.75em;
+}
+
+.Footer {
+  text-align: center;
+  background-color: white;
+  position: fixed;
+  z-index: 9999;
+  width: 100%;
+  bottom: 0;  
+}
+
+.Header {
+  text-align: end;
+  background-color: white;
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+  left: 0;;
+  /* height: 12vh; */
+}
+
+@media only screen and (max-width:300px) {
+  .logo {
+    background-color: #649d66;
+    width: 200px;
+    float: left;
+    height: 8vh;
+    margin: 0.5em;
+  }
+}

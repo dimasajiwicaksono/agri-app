@@ -1,0 +1,18 @@
+.DetailCard {
+    width: 200px;
+    margin-bottom: 5vh; 
+    left: 25%;
+    background-size: cover;
+}
+
+.BodyDictionary {
+    margin : 64px 2em 0 2em;
+  }
+
+.DetailFormBody {
+    margin: 0 2em 0 2em;
+}
+
+.ListItem {
+    margin-top: 2em;
+}

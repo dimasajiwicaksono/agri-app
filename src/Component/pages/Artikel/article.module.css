@@ -1,0 +1,15 @@
+.contentTitleTop {
+  margin-left: 15%;
+  margin-right: 15%;
+  height: 60vh;
+}
+
+.titleTop {
+  text-align: center; 
+  font-size: 3.5em;
+}
+
+.cardImg {
+  max-height:245px; 
+  background-size: cover;
+}

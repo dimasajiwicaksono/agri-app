@@ -1,0 +1,37 @@
+
+.contentBody {
+  height: 80vh;
+}
+
+.title {
+  text-align: center;
+}
+
+.rowBody {
+  /* margin-top: 5vh;
+  margin-left : 4em;
+  margin-right: 4em; */
+  /* border: solid black; */
+}
+
+.mobileImg {
+  height: 30vh; 
+  width: 100%;
+  text-align: center 
+}
+.webImg {
+  height: 55vh;;
+  width: 100%;
+  text-align: center;
+}
+
+.btnWrap {
+  text-align: center;
+  margin-top: 5vh;
+  height: 7vh;
+}
+
+.btnMobile{
+  height : 7vh;
+  border-radius: 20px;
+}
