@@ -1,6 +1,6 @@
 import React from 'react'
 import { Card, Collapse } from 'antd';
-import { dataHama } from '../../Data/Data';
+import { dataHama } from '../../Data';
 import styles from './styles.module.css'
 
 function DetailLayout({dataDetail}) {

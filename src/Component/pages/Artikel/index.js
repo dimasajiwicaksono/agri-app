@@ -141,7 +141,8 @@ const user = [
                 <Col md={8} xs={24} key={index}>
                   <Card
                     hoverable
-                    // onClick={() => handleCard(item.title)}
+                    // onClic
+                    
                     style={{ width: '100%' }}
                     cover={<img alt="example" src={item.img} className={styles.cardImg}/>}
                   >

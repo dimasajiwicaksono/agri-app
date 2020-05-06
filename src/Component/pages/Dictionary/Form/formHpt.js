@@ -1,7 +1,7 @@
 import React, { useState , useEffect, useContext } from 'react'
 import { Input, Form, Row, Col, Button, Checkbox, Space, Spin } from 'antd';
 import styles from '../styles.module.css';
-import { dataKomoditas } from '../../../Data/Data'
+import { dataKomoditas } from '../../../Data'
 import SelectComp from '../../../SelectComp';
 import ModalItem from '../modalItem';
 import ListItem from '../listItem';
