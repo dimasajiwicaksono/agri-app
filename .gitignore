@@ -23,3 +23,5 @@ yarn-debug.log*
 yarn-error.log*
 
 /src/Component/Data
+# Local Netlify folder
+.netlify
